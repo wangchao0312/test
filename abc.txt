@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 wangchao
+=======
+66666
+nihaoma,wohenhao
+88888
+nihaoma
+:wq
+
+
